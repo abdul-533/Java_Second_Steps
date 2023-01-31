@@ -1,6 +1,6 @@
 package JavaVeriables;
 
-public class ComparisonOperators {
+public class _03_ComparisonOperators {
     public static void main(String[] args) {
         int a=50;
         int b=50;

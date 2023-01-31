@@ -1,6 +1,6 @@
 package JavaVeriables;
 
-public class ArithmeticOperators {
+public class _02_ArithmeticOperators {
     public static void main(String[] args) {
         int a = 9;
         int b = 5;

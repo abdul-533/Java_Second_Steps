@@ -1,6 +1,6 @@
 package JavaVeriables;
 
-public class StringInfo {
+public class _01_StringInfo {
     public static void main(String[] args) {
 //////////////////////////////////////////////////////////////////////////////////
 
